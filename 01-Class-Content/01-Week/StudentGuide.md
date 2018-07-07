@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcoming to the first week of the Full-Stack Web Development Boot Camp. In this week, we will be walking through the very basics of HTML/CSS, Git Version Control, Terminal/Console commands, and live deployments using Github Pages. We will also go over a thorough series on Twitter Bootstrap.
+Welcome to the first week of UCF Full-Stack Web Development Boot Camp. In this week, we will be walking through the very basics of HTML/CSS, Git Version Control, Terminal/Console commands, and live deployments using Github Pages. We will also go over a thorough series on Twitter Bootstrap.
 
 
 ### Slide Shows
